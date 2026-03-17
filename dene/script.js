@@ -12,7 +12,7 @@ const questions = [
         hints: [
             "İpucu 1: konuşmaya gerek yok görüyorsunuz"
         ],
-        successImage: "ben.jpg",
+        successImage: "bir.png",
         successText: "Başka kim çizebilirki bu şaheseri",
         answer: ["Fatih", "Fatih Yılmaz"]
     },
@@ -79,7 +79,7 @@ const questions = [
             "Şerefsizdir"
         ],
         hasOther: true,
-        successImage: "söz.jpg",
+        successImage: "dört.jpg",
         successText: "nc nc nc insan doğru seçenek yok der be hemende işaretlemiş",
         answer: []
     },
