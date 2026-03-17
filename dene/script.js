@@ -8,7 +8,7 @@ const questions = [
         type: "image",
         title: "Soru 1: Şaheser ",
         desc: "Bu şaheserin ressamı kimdir",
-        questionImage: "çizim.png", // Klasördeki çizim.png resmi eklendi
+        questionImage: "çiz.jpg", // Klasördeki çizim.png resmi eklendi
         hints: [
             "İpucu 1: konuşmaya gerek yok görüyorsunuz"
         ],
